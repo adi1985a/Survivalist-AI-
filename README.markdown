@@ -2,7 +2,6 @@
 
 **An intelligent survival and psychological support assistant powered by OpenAI.**
 
-![Survivalist Pro](https://via.placeholder.com/800x200.png?text=Survivalist+Pro+AI+Assistant)
 
 ## Description
 
@@ -115,9 +114,9 @@ See the `LICENSE` file for full legal text.
 
 ## Author
 
-**[Your Name]**  
-Emergency AI Specialist & Software Developer  
-📧 Contact: [your-email@example.com] *(optional)*
+**[Adrian Lesniak]**  
+Software Developer  
+
 
 ---
 
