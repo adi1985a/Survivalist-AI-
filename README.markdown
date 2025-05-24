@@ -129,7 +129,6 @@ Condition stats auto-decrease every **2.5 hours** to simulate time passage.
 ## 🖼️ Screenshots / Demo
 
 _Coming soon!_  
-Once available, place a `.gif` or `.png` in the `/screenshots` folder and reference it like this:
 
 ```markdown
 ![Survivalist Pro Demo](screenshots/demo.gif)
