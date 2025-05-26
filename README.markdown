@@ -12,6 +12,12 @@ An intelligent survival and psychological support assistant powered by OpenAI fo
 
 **Survivalist Pro** is an AI-powered assistant that combines survival knowledge with psychological resilience tools. Designed for both online and offline use, it helps users assess their situation, receive survival tips, track key vitals, and maintain mental clarity during emergencies — whether in an urban disaster or stranded in the wild.
 
+## 🎞️ Demo
+
+<p align="center">
+  <img src="screenshots/1.gif" width="700" alt="AI Assistant demo">
+</p>
+
 ---
 
 ## ✨ Features
